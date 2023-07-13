@@ -1,6 +1,6 @@
 # My Portfolio
 
-### Stack: React, React Router Dom, Framer Motion, React Tilt, React Vertical Timeline Component, React Three Fiber, React Three Drei
+### Stack: React, React Router Dom, Framer Motion, React Tilt, React Vertical Timeline Component, React Three Fiber, React Three Drei, Tailwind CSS
 
 ### Demo - https://my-portfolio-vladosdc.vercel.app/
 
